@@ -1,4 +1,4 @@
-![title](./eva-title.png)
+![title](./banner.png)
 
 # Cowboy Bebop GitHub Theme (Firefox Extension)
 
