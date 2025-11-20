@@ -1,3 +1,5 @@
+![title](./eva-title.png)
+
 # Cowboy Bebop GitHub Theme (Firefox Extension)
 
 A Firefox browser extension that transforms the GitHub interface with a custom theme inspired by Cowboy Bebop.
