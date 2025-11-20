@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Cowboy-Bebop-GitHub-Theme",
+  "version": "1.0",
+  "description": "A Cowboy Bebop inspired theme for GitHub.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://github.com/*"],
+      "css": ["bebop.css"]
+    }
+  ]
+}

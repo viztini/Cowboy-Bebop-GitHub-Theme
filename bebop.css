@@ -1,0 +1,128 @@
+/* Bebop-Blues - A Cowboy Bebop inspired theme for GitHub */
+
+/* Main body and background */
+body {
+    background-color: #1a202c !important; /* Dark, moody blue/black */
+    color: #f7fafc !important; /* Off-white, maybe slightly yellowed */
+}
+
+/* Header */
+.header {
+    background-color: #c53030 !important; /* Retro, muted red */
+    border-bottom: 1px solid #4a5568 !important; /* Smoky, dark gray */
+}
+
+.header-logo-invertocat {
+    color: #f7fafc !important; /* Off-white */
+}
+
+/* Links */
+a {
+    color: #f6e05e !important; /* A bold, jazzy yellow */
+}
+
+a:hover {
+    color: #f7fafc !important; /* Off-white */
+}
+
+/* Buttons */
+.btn {
+    background-color: #c53030 !important; /* Retro, muted red */
+    color: #f7fafc !important; /* Off-white */
+    border: 1px solid #4a5568 !important; /* Smoky, dark gray */
+}
+
+.btn:hover {
+    background-color: #4a5568 !important; /* Smoky, dark gray */
+}
+
+/* Repository header */
+.repohead {
+    background-color: #4a5568 !important; /* Smoky, dark gray */
+    border-bottom: 1px solid #c53030 !important; /* Retro, muted red */
+}
+
+/* Borders */
+.border-bottom {
+    border-bottom: 1px solid #4a5568 !important;
+}
+
+.border-top {
+    border-top: 1px solid #4a5568 !important;
+}
+
+/* Input fields */
+.form-control {
+    background-color: #4a5568 !important; /* Smoky, dark gray */
+    color: #f7fafc !important; /* Off-white */
+    border: 1px solid #c53030 !important; /* Retro, muted red */
+}
+
+/* Accent color for specific elements (e.g., counters, highlights) */
+.Counter {
+    background-color: #f6e05e !important; /* A bold, jazzy yellow */
+    color: #1a202c !important; /* Dark, moody blue/black */
+}
+
+/* Additional elements for a more complete theme */
+
+/* Navigation tabs */
+.UnderlineNav-item.selected {
+    border-bottom-color: #f6e05e !important; /* A bold, jazzy yellow for selected tab */
+    color: #f7fafc !important;
+}
+
+.UnderlineNav-item {
+    color: #f7fafc !important;
+}
+
+/* Code blocks */
+.blob-wrapper, .highlight {
+    background-color: #4a5568 !important; /* Smoky, dark gray for code blocks */
+    border: 1px solid #c53030 !important;
+}
+
+/* Issues/PRs status labels */
+.State--open {
+    background-color: #f6e05e !important; /* A bold, jazzy yellow */
+    color: #1a202c !important;
+}
+
+.State--closed {
+    background-color: #c53030 !important; /* Retro, muted red for closed status */
+    color: #f7fafc !important;
+}
+
+.State--merged {
+    background-color: #4a5568 !important; /* Smoky, dark gray for merged status */
+    color: #f7fafc !important;
+}
+
+/* Sidebar navigation */
+.Box-row.navigation-item.selected {
+    background-color: #4a5568 !important;
+    border-left: 2px solid #f6e05e !important;
+}
+
+.Box-row.navigation-item {
+    color: #f7fafc !important;
+}
+
+/* Flash messages */
+.flash-warn {
+    background-color: #f6e05e !important; /* A bold, jazzy yellow */
+    color: #1a202c !important;
+    border-color: #c53030 !important;
+}
+
+.flash-error {
+    background-color: #c53030 !important; /* Retro, muted red */
+    color: #f7fafc !important;
+    border-color: #4a5568 !important;
+}
+
+.flash-success {
+    background-color: #4a5568 !important; /* Smoky, dark gray */
+    color: #f7fafc !important;
+    border-color: #c53030 !important;
+}

@@ -1,0 +1,1 @@
+console.log("Cowboy Bebop GitHub Theme content script loaded.");
